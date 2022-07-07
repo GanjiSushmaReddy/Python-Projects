@@ -1,2 +1,3 @@
 # Python-Projects
-Perfect
+Building guessing game,
+Snake-Water-Gun game
